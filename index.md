@@ -5,3 +5,7 @@
 ##### Trying out header 5
 ###### Trying out header 6
 ![Image of Sailor Moon](https://images.app.goo.gl/v1JeRoUxP4y662nv7)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
